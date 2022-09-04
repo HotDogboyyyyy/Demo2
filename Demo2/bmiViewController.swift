@@ -8,6 +8,8 @@
 import UIKit
 
 class bmiViewController: UIViewController {
+    
+    let kevin = true
 
     @IBOutlet weak var bmiLabel: UILabel!
     @IBOutlet weak var weightTextField: UITextField!
