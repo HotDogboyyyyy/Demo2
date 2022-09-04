@@ -9,8 +9,8 @@ import UIKit
 
 class bmiViewController: UIViewController {
     
-    let kevin = true
-
+   let malling = true
+    
     @IBOutlet weak var bmiLabel: UILabel!
     @IBOutlet weak var weightTextField: UITextField!
     @IBOutlet weak var heightTextField: UITextField!
